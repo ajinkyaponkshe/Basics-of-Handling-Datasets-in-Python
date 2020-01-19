@@ -9,3 +9,4 @@ This project will focus on following areas;
 6. Accessing locations using iloc
 7. Row-wise conditional filtering (single condition) 
 8. Row-wise conditional filtering (multiple conditions)
+9. Dropping columns
