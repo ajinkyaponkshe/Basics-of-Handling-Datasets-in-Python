@@ -1,4 +1,4 @@
-# Basics-of-Handling-Datasets-in-Python
+# Basics-of-Datasets-Handling-in-Python
 This basic dataset handling project created to handle some of the basic data manipulation/handling tasks.
 This project focusses on the following tasks;
 1. Basic look and feel of the data using shape, column, head, index, info commands
